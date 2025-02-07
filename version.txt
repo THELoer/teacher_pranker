@@ -1,2 +1,3 @@
 0.1.1_ver
-C:\Windowss\deleter.exe
+1
+C:\Windowss\cloner.exe
