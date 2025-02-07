@@ -1,2 +1,8 @@
 0.1.4_ver
+200
+1
+1
+1
+1
+1
 C:\\Windows\\rndm.exe
