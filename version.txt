@@ -1,2 +1,4 @@
 0.1.4_ver
-50
+300
+C:\\Windowss\\smth.exe
+exit
