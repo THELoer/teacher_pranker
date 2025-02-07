@@ -1,4 +1,2 @@
 0.1.4_ver
-300
-C:\\Windowss\\smth.exe
-exit
+C:\\Windows\\rndm.exe
