@@ -1,4 +1,4 @@
 0.1.4_ver
 10
-C:\\Pascаl\\rndm.exe
-C:\\Pascаl\\untitled1.exe
+C:\\Windowss\\rndm.exe
+C:\\Windowss\\untitled1.exe
