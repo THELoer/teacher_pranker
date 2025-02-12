@@ -1,4 +1,2 @@
 0.1.4_ver
 10
-C:\\Windowss\\rndm.exe
-C:\\Windowss\\untitled1.exe
